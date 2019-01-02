@@ -24,7 +24,8 @@ namespace WpfApplicationTestGit
         public MainWindow()
         {
             InitializeComponent();
-            //jkjkjk
+            // correct comments
+
         }
     }
 }
