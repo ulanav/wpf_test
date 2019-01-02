@@ -23,7 +23,7 @@ namespace WpfApplicationTestGit
     {
         public MainWindow()
         {
-            InitializeComponent(); //  comments chanched
+            InitializeComponent(); //  comments secondary chanched 
         }
 
     }
