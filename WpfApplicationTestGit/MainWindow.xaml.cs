@@ -23,7 +23,7 @@ namespace WpfApplicationTestGit
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); // comments
         }
 
     }
