@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-// test 
+// test Git
 namespace WpfApplicationTestGit
 {
     /// <summary>
@@ -23,9 +23,8 @@ namespace WpfApplicationTestGit
     {
         public MainWindow()
         {
-            InitializeComponent();
-            // correct comments
-
+            InitializeComponent(); //  comments secondary chanched 
         }
+
     }
 }
